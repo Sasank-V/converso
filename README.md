@@ -170,4 +170,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-For questions, suggestions, or contributions, please open an issue or reach out via [LinkedIn](https://www.linkedin.com/).
+For questions, suggestions, or contributions, please open an issue or reach out via [LinkedIn](https://www.linkedin.com/in/sasank-v).
